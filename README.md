@@ -1,2 +1,2 @@
 # BTI
-for learn
+Hello Git
